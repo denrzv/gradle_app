@@ -1,0 +1,6 @@
+rootProject.name = 'gradel_app'
+
+include 'api'
+include 'db'
+include 'service'
+
